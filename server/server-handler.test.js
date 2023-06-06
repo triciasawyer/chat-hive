@@ -1,6 +1,6 @@
 // const Chance = require('chance');
 // let chance = new Chance();
-const { handleHive, handleSports } = require('./handler');
+// const { handleHive, handleSports } = require('./handler');
 
 jest.mock('socket.io-client', () => {
   const emit = jest.fn();
