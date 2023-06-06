@@ -11,6 +11,7 @@ Chat application that allows users to communicate and join group chats based on 
 - Code from previous lab, lab 13
 - Ryan demo content
 - Chat gtp to help build tests
+- Help from Stephen in Remo with making sure we have all our emits and listeners
 
 ## Setup
 
