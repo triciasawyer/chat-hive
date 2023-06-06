@@ -10,6 +10,7 @@ Chat application that allows users to communicate and join group chats based on 
 
 - Code from previous lab, lab 13
 - Ryan demo content
+- Chat gtp to help build tests
 
 ## Setup
 
@@ -22,12 +23,10 @@ Chat application that allows users to communicate and join group chats based on 
 ### How to initialize/run your application (where applicable)
 
 - Create repo
-- Add starter code
+- Add starter code(from lab 12-13)
 - `npm install` to install dependencies.
-- `npm run db:config` then edit the created config file.
-- `npm run db:create` to create the database.
-- `npm start` to start the application.
+- `npm i chance eslint jest socket.io socket.io-client
 
 ### UML
 
-![Grade System UML](./assets/Grade-system-UML.png)
+![Chat-Hive UML](./assets/lab14-UML.png)
