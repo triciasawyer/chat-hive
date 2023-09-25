@@ -18,10 +18,12 @@ Chat application that allows users to communicate and join group chats based on 
 
 To set up and run the application, follow these steps:
 
-1. Create repo
-2. `npm install` to install dependencies.
-3.  `npm run db:config` then edit the created config file.
-4. `npm run db:create` to create the database.
-    `npm start` to start the application.
+1. Create repository
+3. Run `npm install` to install dependencies.
+4. Run `npm i chance eslint jest socket.io socket.io-client
+5. Run `npm start` to start the application
+
 
 ### UML Diagram
+![Chat-Hive UML](./assets/lab14-UML.png)
+
