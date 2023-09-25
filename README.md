@@ -6,28 +6,22 @@
 
 Chat application that allows users to communicate and join group chats based on their interests.
 
-## Links and Resources
-
-- Code from previous lab, lab 13
-- Ryan demo content
-
 ## Setup
 
-### `.env` requirements
+### Environment Variables
 
 - `PORT` - Port Number
 - `DATABASE_URL` - URL to the running Postgres instance/db
 - `SECRET` - Secret for jwt tokens
 
-### How to initialize/run your application (where applicable)
+### Initializing and Running the Application
 
-- Create repo
-- Add starter code
-- `npm install` to install dependencies.
-- `npm run db:config` then edit the created config file.
-- `npm run db:create` to create the database.
-- `npm start` to start the application.
+To set up and run the application, follow these steps:
 
-### UML
+1. Create repo
+2. `npm install` to install dependencies.
+3.  `npm run db:config` then edit the created config file.
+4. `npm run db:create` to create the database.
+    `npm start` to start the application.
 
-![Grade System UML](./assets/Grade-system-UML.png)
+### UML Diagram
