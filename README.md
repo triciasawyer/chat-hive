@@ -23,7 +23,6 @@ To set up and run the application, follow these steps:
 4. Run `npm i chance eslint jest socket.io socket.io-client
 5. Run `npm start` to start the application
 
-
 ### UML Diagram
-![Chat-Hive UML](./assets/lab14-UML.png)
 
+![Chat-Hive UML](./assets/lab14-UML.png)
