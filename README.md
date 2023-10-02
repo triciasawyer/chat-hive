@@ -19,9 +19,9 @@ Chat application that allows users to communicate and join group chats based on 
 To set up and run the application, follow these steps:
 
 1. Create repository
-3. Run `npm install` to install dependencies.
-4. Run `npm i chance eslint jest socket.io socket.io-client
-5. Run `npm start` to start the application
+2. Run `npm install` to install dependencies.
+3. Run `npm i chance eslint jest socket.io socket.io-client
+4. Run `npm start` to start the application
 
 ### UML Diagram
 
