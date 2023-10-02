@@ -1,4 +1,4 @@
-# chat-hive
+# Chat Hive
 
 ## Author: Tricia and Justin
 
@@ -25,4 +25,4 @@ To set up and run the application, follow these steps:
 
 ### UML Diagram
 
-![Chat-Hive UML](./assets/lab14-UML.png)
+![Chat Hive UML Diagram](./assets/chat-hive.png)
