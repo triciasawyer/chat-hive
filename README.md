@@ -21,7 +21,7 @@ To set up and run the application, follow these steps:
 1. Create repository
 2. Run `npm install` to install dependencies.
 3. Run `npm i chance eslint jest socket.io socket.io-client
-4. Run `npm start` to start the application
+4. Run `npm start` or `nodemon` to start the application
 
 ### UML Diagram
 

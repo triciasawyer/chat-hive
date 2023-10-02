@@ -3,7 +3,7 @@
 
 const { Server } = require('socket.io');
 const PORT = process.env.PORT || 3002;
-const Queue = require('./lib/queue');
+const Queue = require('./server/lib/queue');
 // const { handleSports } = require('./handler');
 let textQueue = new Queue();
 
